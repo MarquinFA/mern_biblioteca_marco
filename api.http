@@ -32,4 +32,4 @@ Content-Type: {{contentType}}
 
 ###
 DELETE {{baseUrl}}/books/substituir pelo id de algum livro já cadastrado
-Content-Type: {{contentType}}   
+Content-Type: {{contentType}}
